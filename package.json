@@ -1,11 +1,22 @@
 {
     "name": "velve-dark",
     "displayName": "velve dark",
-    "description": "velve theme",
+    "description": "A minimal dark theme",
     "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.69.0"
+    "publisher": "codenay",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/codenay/velve-dark.git"
     },
+    "keywords": [
+        "theme",
+        "codenay theme",
+        "dark theme",
+        "velve",
+        "codenay",
+        "velve theme",
+        "velve dark theme"
+    ],
     "categories": [
         "Themes"
     ],
