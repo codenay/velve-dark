@@ -17,7 +17,7 @@
 
 ## Manual Installation
 
-Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vscode/blob/master/vsc-extension-quickstart.md)
+Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vscode/blob/master/vsc-extension-quickstart.md) by [Brittany Chiang](https://github.com/bchiang7)
 
 
 ## Color Reference
