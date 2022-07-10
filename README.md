@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="velve Logo" src="[https://codenay.gallerycdn.vsassets.io/extensions/codenay/102147117](https://codenay.gallerycdn.vsassets.io/extensions/codenay/102147193)" width="100" />
+  <img alt="velve Logo" src="![image](https://user-images.githubusercontent.com/68717225/178130737-4e0ffbce-1e10-4e3f-a85c-b5c1d957eb3d.png)" width="100" />
 </p>
 
 <h1 align="center">
