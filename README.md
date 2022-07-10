@@ -1,14 +1,12 @@
-# README
 
 <h1 align="center">
   Velve Dark Theme for VS Code
 </h1>
 <p align="center">
-  A minimal, dark theme for <a href="https://velve-theme.netlify.com/">VS Code</a>.
+  A minimal, dark theme for <a href="https://marketplace.visualstudio.com/items?itemName=codenay.velve-dark">VS Code</a>.
 </p>
 
-
-![demo](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/siIcMXMJjmMt6Vi6pKH7QnfCIOy2/3DyO4ytQ-default.jpeg)
+![DEMO](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/siIcMXMJjmMt6Vi6pKH7QnfCIOy2/3DyO4ytQ-default.jpeg)
 
 ## Installation via VS Code
 
@@ -17,6 +15,10 @@
 3. Click **Install** to install it
 4. Click **Reload** to reload the editor
 5. Code > Preferences > Color Theme > **velve**
+
+## Manual Installation
+
+Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vscode/blob/master/vsc-extension-quickstart.md) by [Brittany Chiang](https://github.com/bchiang7)
 
 
 ## Color Reference
@@ -45,7 +47,4 @@
 | ![#ffcc66](https://via.placeholder.com/10/ffcc66.png?text=+) `#ffcc66` | Accent, list tree titles, badges, etc      |                       
 | ![#ef6b73](https://via.placeholder.com/10/ef6b73.png?text=+) `#ef6b73` | Deletion highlights, errors, warnings      |
 | ![#5ccfe6](https://via.placeholder.com/10/5ccfe6.png?text=+) `#5ccfe6` | Modified highlights                        |
-
-
-
 
