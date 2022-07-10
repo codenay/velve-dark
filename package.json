@@ -7,7 +7,8 @@
     "icon": "velve-dark/img/velve_logo.png",
     "author": {
     "name": "Ebenezer Awuku",
-    "email": "koffieawuku@gmail.com",
+    "email": "koffieawuku@gmail.com"
+},
     "repository": {
         "type": "git",
         "url": "https://github.com/codenay/velve-dark"
