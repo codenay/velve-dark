@@ -1,5 +1,5 @@
 # README
-## This is the README for your extension "velve-dark"
+
 <h1 align="center">
   Velve Dark Theme for VS Code
 </h1>
