@@ -2,12 +2,12 @@
     "name": "velve-dark",
     "displayName": "velve dark",
     "description": "A minimal dark theme",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "codenay",
     "icon": "velve-dark/img/velve_logo.png",
     "author": {
-    "name": "Ebenezer Awuku",
-    "email": "koffieawuku@gmail.com"
+        "name": "Ebenezer Awuku",
+        "email": "koffieawuku@gmail.com"
     },
     "repository": {
         "type": "git",
@@ -25,7 +25,6 @@
     "engines": {
         "vscode": "^1.69.0"
     },
-    
     "categories": [
         "Themes"
     ],
