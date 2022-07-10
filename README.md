@@ -6,7 +6,6 @@
 </p>
 
 ![DEMO](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/siIcMXMJjmMt6Vi6pKH7QnfCIOy2/3DyO4ytQ-default.jpeg)
-![demo](https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/demo.png)
 
 ## Installation via VS Code
 
