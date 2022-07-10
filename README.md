@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="velve Logo" src="https://codenay.gallerycdn.vsassets.io/extensions/codenay/102147117" width="100" />
+</p>
+
 <h1 align="center">
   Velve Dark Theme for VS Code
 </h1>
