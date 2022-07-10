@@ -6,7 +6,7 @@
   Velve Dark Theme for VS Code
 </h1>
 <p align="center">
-  A minimal, dark theme for <a href="https://velve-theme.netlify.com/">VS Code</a>.
+  A minimal, dark theme for <a href="https://marketplace.visualstudio.com/items?itemName=codenay.velve-dark">VS Code</a>.
 </p>
 
 ![DEMO](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/siIcMXMJjmMt6Vi6pKH7QnfCIOy2/3DyO4ytQ-default.jpeg)
