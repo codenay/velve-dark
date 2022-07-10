@@ -4,7 +4,7 @@
     "description": "A minimal dark theme",
     "version": "0.2.0",
     "publisher": "codenay",
-    "icon": "https://github.com/codenay/velve-dark/blob/4e4347f0a8772568b3883d9eced80e7a7e051366/img/velve_logo.png",
+    "icon": "img/velve_logo.png",
     "author": {
         "name": "Ebenezer Awuku",
         "email": "koffieawuku@gmail.com"
