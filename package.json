@@ -6,7 +6,7 @@
     "publisher": "codenay",
     "repository": {
         "type": "git",
-        "url": "https://github.com/codenay/velve-dark"
+        "url": "https://github.com/codenay/velve-dark.git"
     },
     "keywords": [
         "theme",
